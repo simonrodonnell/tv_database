@@ -41,7 +41,7 @@ h5 {
   text-align: center;
   font-size: 14px;
   margin: 10px 10px;
-  height: 70px;
+  min-height: 70px;
   border: 2px ridge grey;
   border-radius: 10px;
   background-color: lightgrey;
